@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookOnTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31cea1708e98871e2bd2999269d07b2a7f7a7ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookOnTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookOnTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

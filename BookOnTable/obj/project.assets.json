@@ -3200,24 +3200,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {}
+    "C:\\Users\\carol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\BookOnTable\\BookOnTable.csproj",
+      "projectUniqueName": "C:\\Users\\carol\\sistemas-distribuidos-mobile\\BookOnTable\\BookOnTable.csproj",
       "projectName": "BookOnTable",
-      "projectPath": "C:\\Users\\anton\\BookOnTable\\BookOnTable.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\BookOnTable\\obj\\",
+      "projectPath": "C:\\Users\\carol\\sistemas-distribuidos-mobile\\BookOnTable\\BookOnTable.csproj",
+      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carol\\sistemas-distribuidos-mobile\\BookOnTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3287,7 +3290,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
