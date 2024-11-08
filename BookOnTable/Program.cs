@@ -41,7 +41,7 @@ internal class Program
             book.Title = updatebook.Title;
             book.Author = updatebook.Author;
             book.PublishDate = updatebook.PublishDate;
-
+            book.Key = updatebook.Key;
             await db.SaveChangesAsync();
             return Results.NoContent();
         });
