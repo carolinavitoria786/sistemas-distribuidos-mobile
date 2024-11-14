@@ -1,0 +1,15 @@
+F:\portifolio\C#\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.exe
+F:\portifolio\C#\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.deps.json
+F:\portifolio\C#\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.runtimeconfig.json
+F:\portifolio\C#\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.dll
+F:\portifolio\C#\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.pdb
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfo.cs
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.sourcelink.json
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.dll
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\refint\ConsumerAdviceApi.dll
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.pdb
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.genruntimeconfig.cache
+F:\portifolio\C#\ConsumerAdviceApi\obj\Debug\net8.0\ref\ConsumerAdviceApi.dll
